@@ -1,0 +1,3 @@
+- [brew install gleam](https://gleam.run/getting-started/installing/)
+- [vscode gleam extension](https://marketplace.visualstudio.com/items?itemName=Gleam.gleam)
+- [try lustre](https://hexdocs.pm/lustre/guide/01-quickstart.html)
